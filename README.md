@@ -6,7 +6,7 @@ numpy,
 seaborn,
 plotly,
 datetime,
-matplotlib,
+matplotlib
 
 # use this command too install the requirements
 install the req
