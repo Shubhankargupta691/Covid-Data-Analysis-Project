@@ -9,7 +9,7 @@ datetime
 matplotlib
 
 # use this command too install the requirements
-bash
-'''
-pip install -r requirements.txt 
-'''
+install the req
+```bash
+pip install -r requirements.txt
+```
